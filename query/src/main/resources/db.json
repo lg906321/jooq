@@ -1,0 +1,8 @@
+{
+  "provider_class": "io.vertx.ext.jdbc.spi.impl.HikariCPDataSourceProvider",
+  "jdbcUrl": "jdbc:mysql://127.0.0.1:3306/tmp?characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull",
+  "username": "root",
+  "password": "root",
+  "maximumPoolSize":5,
+  "minimumIdle":1
+}
